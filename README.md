@@ -1,27 +1,150 @@
-# 💫 About Me:
-🔭 I’m currently working on sharpening my development skills and building exciting projects!<br>👯 I’m looking to collaborate on innovative project ideas and anything that sparks creativity!<br>🌱 I’m currently learning advanced React Native, backend integration, and optimizing mobile app performance. 📱🔥
+<div align="center">
 
+# Abhishrestha
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi2330) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/mr_stoic23) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Abhishrestha23) 
+### Full-Stack Developer • GSoC '26 Contributor • Open Source Enthusiast
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhi23-tiw&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhi23-tiw&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi23-tiw&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/abhishrestha-career">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/abhishrestha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/Abhishrestha23">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhi23-tiw&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=abhishrestha&label=Profile%20Views&color=6366f1&style=flat-square" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhi23-tiw&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhi23-tiw&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+```ts
+const abhishrestha = {
+  role: "Full-Stack Developer",
+  
+  interests: [
+    "React Native",
+    "Backend Systems",
+    "Generative AI",
+    "Cloud Infrastructure",
+    "Open Source"
+  ],
+
+  currentFocus: [
+    "GSoC '26 @ The Linux Foundation",
+    "AI Engineering",
+    "Distributed Systems"
+  ],
+
+  techStack: {
+    frontend: ["React", "React Native", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "FastAPI"],
+    databases: ["PostgreSQL", "MongoDB", "Firebase", "Supabase"],
+    ai: ["LangChain", "LangGraph", "RAG", "OpenAI API"],
+    devops: ["Docker", "GCP", "OAuth 2.0"]
+  }
+};
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,sql" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" />
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,gcp,git,github" />
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abhishrestha&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&rank_icon=github" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishrestha&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+<img width="720" src="https://streak-stats.demolab.com?user=abhishrestha&theme=transparent&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+
+</div>
+
+<div align="center">
+
+<img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishrestha&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishrestha&theme=github-dark&hide_border=true&radius=12" />
+
+</div>
+
+---
+
+## Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhishrestha&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/abhishrestha-career">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abhishrestha">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Abhishrestha23">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building scalable systems, AI-powered products, and impactful open-source solutions.
+
+</div>
